@@ -60,7 +60,7 @@ DOWNLOAD "Online Voting Management System Project"
 ## Usage
 
 - Visit `http://localhost/online-vote/admin/` in your browser to access the admin login.
-- Login to admin dashboard using credentials 'mohan' and 'mohan.sjbit'.
+- Login to admin dashboard using credentials 'nithu' and 'nithu.sjbit'.
 - Add, Delete or Update existing voters and candidates.
 - Once admin things are done sign-out and goto `http://localhost/online-vote/` to access the voting system.
 - Cast the vote and submit.
